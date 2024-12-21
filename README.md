@@ -25,8 +25,6 @@ Dataset yang digunakan dalam proyek ini adalah dataset _rock-paper-scissors_ yan
     -O /tmp/rockpaperscissors.zip
 ```
 
-````
-
 Dataset ini berisi gambar tangan manusia yang membentuk tiga kategori: batu, gunting, dan kertas.
 
 ## Langkah-Langkah Penggunaan
@@ -84,4 +82,7 @@ Jika ada pertanyaan atau saran, Anda dapat menghubungi:
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-````
+
+```
+
+```
