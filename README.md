@@ -82,7 +82,3 @@ Jika ada pertanyaan atau saran, Anda dapat menghubungi:
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-```
-
-```
